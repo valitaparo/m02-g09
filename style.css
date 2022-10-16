@@ -29,8 +29,12 @@ div{/* selecciona el div y lo pinta */
 	background: white;
 }
 #desarrollo{/* selecciona el id y lo pinta */
-	background-color: orange;
+	background-color: lightblue;
 	}
+
+#conclusion{
+	background-color: lightpink;
+}
 
 h1{/* selecciona el header o titulo 1 y lo pinta */
 	background-color: pink;
